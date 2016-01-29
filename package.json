@@ -1,0 +1,11 @@
+{
+  "name": "iron-node-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "iron-node index.js"
+  },
+  "author": "James Talmage <james@talmage.io>",
+  "license": "MIT"
+}
