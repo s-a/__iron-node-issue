@@ -1,5 +1,5 @@
 'use strict';
 
-require('./globals').setTimeout(function () {
+require('./globals').setTimeout.call(window, function () {
   console.log('foo');
 });
